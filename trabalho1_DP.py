@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-'''
-Created on Fri Sep 15 10:16:51 2017
-
-@author: Jorge
-
-'''
 import turtle
 
 turtle.hideturtle()
